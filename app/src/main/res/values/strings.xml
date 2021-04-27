@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AssTwo</string>
+    <string name="Name">Enter your Name</string>
+    <string name="V">CV APP</string>
+    <string name="txt_Gender">what your gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Dateview">Select Date:</string>
+    <string name="tvactiv2">What educational experiences do you have</string>
+    <string name="txtw">what do you work</string>
+    <string name="saveB">save data</string>
+
+
+</resources>
